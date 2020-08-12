@@ -1,8 +1,6 @@
 {
-    "TabSet1" : 3,
+    "TabSet1" : 0,
     "TabSet2" : 1,
     "TabZoom" : {
-        "MaximizedTab" : "History",
-        "WidgetSize" : 649
     }
 }
